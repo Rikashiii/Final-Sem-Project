@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AES_RSA_IMAGE/AES_RSA_IMAGE.iml" filepath="$PROJECT_DIR$/AES_RSA_IMAGE/AES_RSA_IMAGE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AES_RSA_Image_Encryptor_Decryptor/AES_RSA_Image.iml" filepath="$PROJECT_DIR$/AES_RSA_Image_Encryptor_Decryptor/AES_RSA_Image.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AES_RSA_Video/AES_RSA_Video.iml" filepath="$PROJECT_DIR$/AES_RSA_Video/AES_RSA_Video.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AES_TDES_Image/AES_TDES_Image.iml" filepath="$PROJECT_DIR$/AES_TDES_Image/AES_TDES_Image.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AES_TDES_Video/AES_TDES_Video.iml" filepath="$PROJECT_DIR$/AES_TDES_Video/AES_TDES_Video.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/FINAL SEM PROJECT.iml" filepath="$PROJECT_DIR$/.idea/FINAL SEM PROJECT.iml" />
+    </modules>
+  </component>
+</project>
